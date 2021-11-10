@@ -20,8 +20,8 @@ This repository provides the codes and data used in our paper "Human Activity Re
     ```
         For example
         ```bash
-        python linear_regression_main.py linear_regression_file 4 0 100
-        ```
+    python linear_regression_main.py linear_regression_file 4 0 100
+    ```
 
 - Input and output CSV files name
 
