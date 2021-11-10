@@ -16,7 +16,7 @@ This repository provides the codes and data used in our paper "Human Activity Re
 1. Clone this repository
 2. Run
     ```bash
-    python <linear_regression_main|...|generalAI>.py <MHEALTH|USCHAD|UTD-MHAD1_1s|UTD-MHAD2_1s|WHARF|WISDM>.csv
+    python <linear_regression_main|...|logistic_regression_main>.py <MHEALTH|USCHAD|UTD-MHAD1_1s|UTD-MHAD2_1s|WHARF|WISDM>.csv
     ```
         For example
     ```bash
@@ -24,6 +24,7 @@ This repository provides the codes and data used in our paper "Human Activity Re
     ```
 
 - Input and output CSV files name
+    studentscores.csv
 
 ## Multi Linear Regression function
 1. Clone this repository
