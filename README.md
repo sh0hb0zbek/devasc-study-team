@@ -24,7 +24,7 @@ This repository provides the codes and data used in our paper "Human Activity Re
     ```
 
 - Input and output CSV files name
-    studentscores.csv
+    -studentscores.csv
 
 ## Multi Linear Regression function
 1. Clone this repository
